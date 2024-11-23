@@ -7,3 +7,4 @@ Sevgili GAIH ailesine bu destekleyici rollerinden dolayı teşekkür ederim.
 
 ## Veri Seti
 **Agriculture Crop Yield Dataset** | https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield
+**Kaggle** | https://www.kaggle.com/code/kazloo/gaih-veri-analizi-proje
